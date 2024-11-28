@@ -57,7 +57,7 @@ You will also need a Gemini API key from Google. You can obtain this by signing 
   ```
 The application should now be running on `http://localhost:3000`.
 
-##Project Structure
+## Project Structure
 ```bash
 financial-advisor-chatbot/
 ├── client/
@@ -73,7 +73,7 @@ financial-advisor-chatbot/
 ├── package.json
 └── README.md
 ```
-##How It Works
+## How It Works
 
 1. The user enters a financial question in the input field on the frontend.
 2. The question is sent to the backend server.
